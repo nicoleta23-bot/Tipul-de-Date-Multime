@@ -1,0 +1,8 @@
+A=set(input('dati elementele:'))
+B=set(input('dati elementele:'))
+print(A)
+print(B)
+print(A.intersection(B))
+print(A.union(B))
+print(A.difference(B))
+print(B.difference(A))
