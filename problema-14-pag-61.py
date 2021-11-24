@@ -1,0 +1,5 @@
+s1=set(input('dati sirul :'))
+s2=set(input('dati sirul :'))
+print(s1.intersection(s2))
+print(s1.union(s2))
+print(s1.difference(s2))
